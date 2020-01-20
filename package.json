@@ -1,0 +1,13 @@
+{
+    "name": "Ohayobot",
+    "description": "Automate Ohayocon Staff Operations",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^11.5.0",
+        "request": "2.81.0"
+    }
+}
